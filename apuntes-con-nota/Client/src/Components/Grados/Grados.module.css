@@ -1,0 +1,19 @@
+.selectGrados{
+    background: #79B5B9; 
+    border: none; 
+    box-shadow: none; 
+    color: #333;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 4px 0;
+    text-align: center;
+  }
+
+  .selectgrados option {
+    text-decoration: none;
+    background: #79B5B9;
+    color: #333;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }

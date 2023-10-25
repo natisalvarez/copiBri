@@ -1,0 +1,11 @@
+.selectFacultades{
+    display: flex;
+    background: #79B5B9; 
+    border: none; 
+    box-shadow: none; 
+    color: #333;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 2px 0;
+    text-align: center;
+  }
