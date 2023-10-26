@@ -20,7 +20,7 @@ const Universidades = () => {
   return (
     <select className={style.selectUniversidades}>
         <option value="Universidades" >Universidades</option>
-        { universities.map((university, index) => (
+         let optionItems =  { universities.map((university, index) => (
           <option key={index} value={university.nombre}>{university.nombre}</option>
         ))}
       </select>

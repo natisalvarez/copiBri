@@ -23,7 +23,6 @@ const Facultades = () => {
         <option key={facu.codigo}>{facu.nombre}</option>
       ))}
     </select>
-  );
-};
+  )};
 
 export default Facultades;
